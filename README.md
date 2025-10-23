@@ -10,10 +10,12 @@ area and compare it with a predefined threshold to determine the presence of ost
 ### Coding of Osteoporosis and PPT:
 
 HUMAYRA TASNIM FARAH 200021318
+
 MAIMUNA BISWAS NOSHIN 200021347
 
 ### Coding of Bone Fracture and Report:
 SAFRINA KABIR 200021341
+
 JARIN TASNIM RAHMAN 200021316
 
 ## Concusion
